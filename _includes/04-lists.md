@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. brutus
+2. lucek
+3. miniek
